@@ -1,0 +1,87 @@
+
+.img-2 {
+    position: absolute;
+    width: 250;
+    top: 25px;
+    left: 45%;
+    
+}
+
+#topLink{
+    position: absolute;
+    top: 30%;
+
+}
+
+#homeOffice{
+    position: absolute;
+    top: 50%;
+    color: white;
+    right: 45%;    
+    
+}
+
+#h1{
+    color: white;
+    font-size: 64px; 
+    font-family: Montserrat; 
+    font-weight: 700; 
+    line-height: 70.40px; 
+    word-wrap: break-word;
+}
+
+#h2{
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 28.80px;
+    word-wrap: break-word
+}
+
+#h3{
+    color: #414042;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 36px;
+    word-wrap: break-word
+}
+
+.padding-0{
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.compre-por-categoria{
+    
+    top: 40%;
+}
+
+#fixed-top{
+    color: white;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 18.20px;
+    word-wrap: break-word
+}
+
+.new-navbar{
+    background-color: #333;
+    overflow: hidden;
+}
+
+.carousel-img{
+    width: 548px;
+    height: 548px;
+}
+
+#mais-vendidos{
+    color: #414042;
+    font-size: 27px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 27px;
+    word-wrap: break-word
+}
